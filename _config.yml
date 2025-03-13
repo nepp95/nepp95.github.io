@@ -1,13 +1,13 @@
 # Site Specific Configuration
-name: LightSpeed
-description: A simple Jekyll theme
-url: https://example.com
-author: tajacks
-timezone: America/Toronto
-timezone_short: ET
+name: Niels Eppenhof
+description: Portfolio website of Niels Eppenhof
+url: https://eppostudios.nl
+author: nepp95
+timezone: Europe/Amsterdam
+timezone_short: NL
 
 # Keywords
-keywords: ['seo', 'key', 'words']
+keywords: ['eppostudios', 'nepp95', 'eppenhof', 'niels eppenhof', 'eppoengine', 'game engine', 'c++']
 
 # Analytics (Plausible requires sign-up)
 analytics:
